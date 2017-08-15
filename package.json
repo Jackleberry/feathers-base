@@ -1,6 +1,6 @@
 {
-  "name": "feathers-app",
-  "description": "Generated add to test it out",
+  "name": "feathers-base",
+  "description": "Simple feathers app",
   "version": "0.0.0",
   "homepage": "",
   "main": "src",
@@ -9,7 +9,6 @@
   ],
   "author": {
     "name": "jackleberry",
-    "email": "jackiehannaford@yahoo.co.uk"
   },
   "contributors": [],
   "bugs": {},

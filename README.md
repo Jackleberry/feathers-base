@@ -1,6 +1,6 @@
 # feathers-app
 
-> Generated add to test it out
+> Simple feathers app
 
 ## About
 
